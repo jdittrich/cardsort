@@ -65,7 +65,7 @@ See the [documentation](https://cardsort.readthedocs.io) for details.
 
 ## Contributing
 
-Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
+Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a [Code of Conduct](https://cardsort.readthedocs.io/en/latest/conduct.html). By contributing to this project, you agree to abide by its terms.
 
 ## License
 
